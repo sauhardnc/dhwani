@@ -34,7 +34,7 @@ URL - http://localhost/dhwani/user or http://localhost/dhwani which redirects to
           # GET 
 	      # http://localhost/dhwani/api/dhwani_api/get_child
       
-       Get district  -
+       Get children  -
           # POST 
           # http://localhost/dhwani/api/dhwani_api/get_child
           # {"id": "1", "state_id": "1", "district_id": "1"}
